@@ -1,5 +1,4 @@
 Guardian News Reader 📰✨
-
 A fully client-side news dashboard that combines The Guardian's Open Platform with Google Gemini AI.
 
 🚀 Key Features
